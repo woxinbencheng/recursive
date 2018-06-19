@@ -1,0 +1,3 @@
+                    disposition模块
+主要完成对序列元素的全排列，如disposition(["a","b"]) 返回[["a","b"],["b","a"]]
+可对字符串进行切割,如disposition("a,b",split_e=",")  返回[["a","b"],["b","a"]]

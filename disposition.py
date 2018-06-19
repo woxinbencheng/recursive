@@ -35,3 +35,5 @@ if __name__ =="__main__":
     print(k)
     j=disposition("a,b,c",split_e=",")
     print(j)
+    l=disposition("a b c",split_e=" ")
+    print(l)
